@@ -1,4 +1,4 @@
 imageResizer
 ============
 
-a simple image resizer
+a simple python image resizer
